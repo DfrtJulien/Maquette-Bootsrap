@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.dosis{
+    font-family: "Dosis", sans-serif;
+}
+
+.texturina {
+    font-family: "Texturina", serif;
+}
+
+.bg-darkgrey {
+    background-color: #353A40;
+}
+
+.font-yellow {
+    color: #ECB348;
+}
+
+.search-btn {
+    border: 1px solid #ECB348;
+    padding: 10px;
+}
+
+.first-section {
+    background-image: url(/img/banner-buisnessman.jpg);
+    background-repeat: no-repeat;
+    height: 85vh;
+}
