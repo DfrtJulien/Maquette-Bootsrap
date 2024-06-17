@@ -3,11 +3,12 @@
     margin: 0;
 }
 
-.dosis{
+body {
     font-family: "Dosis", sans-serif;
 }
 
-.texturina {
+
+h1,h2,h3,h4,h5,h6{
     font-family: "Texturina", serif;
 }
 
@@ -21,7 +22,13 @@
 
 .search-btn {
     border: 1px solid #ECB348;
-    padding: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.myInput {
+    padding-top: 9px;
+    padding-bottom: 9px;
 }
 
 .first-section {
